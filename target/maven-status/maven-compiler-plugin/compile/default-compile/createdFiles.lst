@@ -1,0 +1,6 @@
+com\mycompany\primerservlet\model\Usuario.class
+com\mycompany\mavenproject1\JakartaRestConfiguration.class
+com\mycompany\primerservlet\servlets\SvUsuarios.class
+com\mycompany\mavenproject1\servlets\UsuarioRepository.class
+com\mycompany\mavenproject1\resources\JakartaEE10Resource.class
+com\mycompany\primerservlet\util\DatabaseConnection.class
